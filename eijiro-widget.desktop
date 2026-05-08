@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Eijiro Widget
+Comment=Fast Eijiro dictionary widget
+Exec=eijiro-widget
+Icon=accessories-dictionary
+Terminal=false
+Type=Application
+Categories=Office;Dictionary;Education;
+StartupNotify=true
+Keywords=dictionary;eijiro;search;
